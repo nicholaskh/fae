@@ -1,8 +1,8 @@
 package servant
 
 import (
-	"github.com/funkygao/etclib"
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/etclib"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
 )
 
 func (this *FunServantImpl) ZkCreate(ctx *rpc.Context, path string,

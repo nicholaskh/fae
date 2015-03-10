@@ -1,9 +1,9 @@
 package game
 
 import (
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/golib/cache"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/golib/cache"
+	log "github.com/nicholaskh/log4go"
 	"sync"
 	"time"
 )

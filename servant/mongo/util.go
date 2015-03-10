@@ -1,7 +1,7 @@
 package mongo
 
 import (
-	log "github.com/funkygao/log4go"
+	log "github.com/nicholaskh/log4go"
 	"labix.org/v2/mgo/bson"
 )
 

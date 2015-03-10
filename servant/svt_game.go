@@ -1,11 +1,11 @@
 package servant
 
 import (
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	"github.com/funkygao/fae/servant/proxy"
-	"github.com/funkygao/golib/gofmt"
-	"github.com/funkygao/golib/trie"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/fae/servant/proxy"
+	"github.com/nicholaskh/golib/gofmt"
+	"github.com/nicholaskh/golib/trie"
+	log "github.com/nicholaskh/log4go"
 )
 
 // TODO use hset to reduce mem usage

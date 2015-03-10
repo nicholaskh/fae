@@ -1,7 +1,7 @@
 package mongo
 
 import (
-	"github.com/funkygao/fae/config"
+	"github.com/nicholaskh/fae/config"
 )
 
 type ServerSelector interface {

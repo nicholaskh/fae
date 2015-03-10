@@ -1,10 +1,10 @@
 package mysql
 
 import (
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/golib/cache"
-	"github.com/funkygao/golib/str"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/golib/cache"
+	"github.com/nicholaskh/golib/str"
+	log "github.com/nicholaskh/log4go"
 	"strconv"
 	"strings"
 )

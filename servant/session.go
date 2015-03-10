@@ -1,10 +1,10 @@
 package servant
 
 import (
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	"github.com/funkygao/golib/sampling"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/golib/sampling"
+	log "github.com/nicholaskh/log4go"
 	"sync/atomic"
 	"time"
 )

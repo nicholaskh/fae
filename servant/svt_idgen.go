@@ -1,10 +1,10 @@
 package servant
 
 import (
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	"github.com/funkygao/fae/servant/proxy"
-	"github.com/funkygao/golib/idgen"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/fae/servant/proxy"
+	"github.com/nicholaskh/golib/idgen"
+	log "github.com/nicholaskh/log4go"
 )
 
 // Ticket service

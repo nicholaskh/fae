@@ -2,7 +2,7 @@ package servant
 
 import (
 	"fmt"
-	"github.com/funkygao/golib/server"
+	"github.com/nicholaskh/golib/server"
 	"github.com/gorilla/mux"
 	"net/http"
 )

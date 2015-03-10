@@ -1,9 +1,9 @@
 package mongo
 
 import (
-	"github.com/funkygao/assert"
-	"github.com/funkygao/fae/config"
-	conf "github.com/funkygao/jsconf"
+	"github.com/nicholaskh/assert"
+	"github.com/nicholaskh/fae/config"
+	conf "github.com/nicholaskh/jsconf"
 	"testing"
 )
 

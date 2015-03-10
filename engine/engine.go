@@ -2,9 +2,9 @@ package engine
 
 import (
 	"git.apache.org/thrift.git/lib/go/thrift"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/fae/servant"
-	conf "github.com/funkygao/jsconf"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/fae/servant"
+	conf "github.com/nicholaskh/jsconf"
 	"time"
 )
 

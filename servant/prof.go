@@ -2,9 +2,9 @@ package servant
 
 import (
 	"fmt"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	log "github.com/nicholaskh/log4go"
 	"time"
 )
 

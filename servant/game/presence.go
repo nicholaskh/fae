@@ -1,7 +1,7 @@
 package game
 
 import (
-	"github.com/funkygao/golib/cache"
+	"github.com/nicholaskh/golib/cache"
 	"time"
 )
 

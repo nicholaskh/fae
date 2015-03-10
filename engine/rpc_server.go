@@ -3,9 +3,9 @@ package engine
 import (
 	"errors"
 	"git.apache.org/thrift.git/lib/go/thrift"
-	"github.com/funkygao/etclib"
-	"github.com/funkygao/fae/config"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/etclib"
+	"github.com/nicholaskh/fae/config"
+	log "github.com/nicholaskh/log4go"
 	"net"
 	"sync/atomic"
 	"time"

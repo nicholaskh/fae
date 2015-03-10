@@ -2,7 +2,7 @@ package mongo
 
 import (
 	"fmt"
-	"github.com/funkygao/fae/config"
+	"github.com/nicholaskh/fae/config"
 	"strings"
 )
 

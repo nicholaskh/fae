@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/funkygao/fae/servant/proxy"
+	"github.com/nicholaskh/fae/servant/proxy"
 	"log"
 	"time"
 )

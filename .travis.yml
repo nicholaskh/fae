@@ -2,7 +2,7 @@ language: go
 go:
   - 1.1.2
 install:
-  - go get -u github.com/funkygao/fae
+  - go get -u github.com/nicholaskh/fae
 script:
   - pushd $TRAVIS_BUILD_DIR
   - mkdir -p var

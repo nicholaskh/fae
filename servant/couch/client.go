@@ -1,8 +1,8 @@
 package couch
 
 import (
-	"github.com/funkygao/couchbase"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/couchbase"
+	log "github.com/nicholaskh/log4go"
 	"math/rand"
 	"sync"
 	"time"

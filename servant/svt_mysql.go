@@ -7,11 +7,11 @@ import (
 	"crypto/sha1"
 	sql_ "database/sql"
 	_json "encoding/json"
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	"github.com/funkygao/fae/servant/proxy"
-	json "github.com/funkygao/go-simplejson"
-	log "github.com/funkygao/log4go"
-	"github.com/funkygao/mergemap"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/fae/servant/proxy"
+	json "github.com/nicholaskh/go-simplejson"
+	log "github.com/nicholaskh/log4go"
+	"github.com/nicholaskh/mergemap"
 	"strings"
 )
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/funkygao/golib/gofmt"
+	"github.com/nicholaskh/golib/gofmt"
 	"log"
 	"sync/atomic"
 	"time"

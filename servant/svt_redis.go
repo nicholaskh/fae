@@ -2,9 +2,9 @@ package servant
 
 import (
 	"encoding/json"
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	log "github.com/funkygao/log4go"
-	"github.com/funkygao/redigo/redis"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	log "github.com/nicholaskh/log4go"
+	"github.com/nicholaskh/redigo/redis"
 	"strconv"
 )
 

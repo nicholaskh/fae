@@ -2,9 +2,9 @@ package redis
 
 import (
 	"errors"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/golib/breaker"
-	"github.com/funkygao/redigo/redis"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/golib/breaker"
+	"github.com/nicholaskh/redigo/redis"
 	"sync"
 	"time"
 )

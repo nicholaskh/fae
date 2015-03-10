@@ -1,8 +1,8 @@
 package servant
 
 import (
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	"github.com/funkygao/fae/servant/proxy"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/fae/servant/proxy"
 )
 
 // proxy mode, dispatching(routing) call

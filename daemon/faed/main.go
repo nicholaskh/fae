@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/funkygao/fae/engine"
-	"github.com/funkygao/golib/locking"
-	"github.com/funkygao/golib/profile"
-	"github.com/funkygao/golib/server"
-	"github.com/funkygao/golib/signal"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/engine"
+	"github.com/nicholaskh/golib/locking"
+	"github.com/nicholaskh/golib/profile"
+	"github.com/nicholaskh/golib/server"
+	"github.com/nicholaskh/golib/signal"
+	log "github.com/nicholaskh/log4go"
 	_log "log"
 	"os"
 	"runtime/debug"

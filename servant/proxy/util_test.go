@@ -2,7 +2,7 @@ package proxy
 
 import (
 	"errors"
-	"github.com/funkygao/assert"
+	"github.com/nicholaskh/assert"
 	"testing"
 )
 

@@ -1,7 +1,7 @@
 package memcache
 
 import (
-	"github.com/funkygao/fae/config"
+	"github.com/nicholaskh/fae/config"
 	"net"
 	"strings"
 	"testing"

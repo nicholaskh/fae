@@ -1,7 +1,7 @@
 package store
 
 import (
-	"github.com/funkygao/golib/cache"
+	"github.com/nicholaskh/golib/cache"
 )
 
 type MemStore struct {

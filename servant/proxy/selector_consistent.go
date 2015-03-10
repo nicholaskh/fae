@@ -1,7 +1,7 @@
 package proxy
 
 import (
-	"github.com/funkygao/golib/hash"
+	"github.com/nicholaskh/golib/hash"
 	"math/rand"
 	"time"
 )

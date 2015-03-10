@@ -1,7 +1,7 @@
 package game
 
 import (
-	"github.com/funkygao/assert"
+	"github.com/nicholaskh/assert"
 	"math/rand"
 	"testing"
 )

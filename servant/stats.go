@@ -1,7 +1,7 @@
 package servant
 
 import (
-	"github.com/funkygao/metrics"
+	"github.com/nicholaskh/metrics"
 	"sync/atomic"
 )
 

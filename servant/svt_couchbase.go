@@ -2,8 +2,8 @@ package servant
 
 import (
 	"github.com/couchbase/gomemcached"
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	log "github.com/nicholaskh/log4go"
 )
 
 // curl localhost:8091/pools/ | python -m json.tool

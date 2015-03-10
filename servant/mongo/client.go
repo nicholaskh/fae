@@ -1,9 +1,9 @@
 package mongo
 
 import (
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/golib/breaker"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/golib/breaker"
+	log "github.com/nicholaskh/log4go"
 	"labix.org/v2/mgo"
 	"sync"
 	"time"

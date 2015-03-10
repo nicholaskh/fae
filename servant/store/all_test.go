@@ -1,9 +1,9 @@
 package store
 
 import (
-	"github.com/funkygao/assert"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/golib/server"
+	"github.com/nicholaskh/assert"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/golib/server"
 	"testing"
 )
 

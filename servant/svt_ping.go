@@ -2,8 +2,8 @@ package servant
 
 import (
 	"fmt"
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	"github.com/funkygao/golib/server"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/golib/server"
 	"time"
 )
 

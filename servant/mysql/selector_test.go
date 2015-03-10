@@ -2,10 +2,10 @@ package mysql
 
 import (
 	"fmt"
-	"github.com/funkygao/assert"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/golib/server"
-	"github.com/funkygao/golib/str"
+	"github.com/nicholaskh/assert"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/golib/server"
+	"github.com/nicholaskh/golib/str"
 	"strconv"
 	"strings"
 	"testing"

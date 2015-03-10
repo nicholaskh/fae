@@ -4,11 +4,11 @@ package main
 
 import (
 	"flag"
-	"github.com/funkygao/etclib"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/fae/servant/proxy"
-	"github.com/funkygao/golib/gofmt"
-	"github.com/funkygao/golib/server"
+	"github.com/nicholaskh/etclib"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/fae/servant/proxy"
+	"github.com/nicholaskh/golib/gofmt"
+	"github.com/nicholaskh/golib/server"
 	"log"
 	"os"
 	"sync"

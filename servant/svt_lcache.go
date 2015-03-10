@@ -5,9 +5,9 @@ package servant
 
 import (
 	"git.apache.org/thrift.git/lib/go/thrift"
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	"github.com/funkygao/golib/cache"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/golib/cache"
+	log "github.com/nicholaskh/log4go"
 )
 
 func (this *FunServantImpl) onLcLruEvicted(key cache.Key, value interface{}) {

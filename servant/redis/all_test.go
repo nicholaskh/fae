@@ -1,10 +1,10 @@
 package redis
 
 import (
-	"github.com/funkygao/assert"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/golib/server"
-	"github.com/funkygao/msgpack"
+	"github.com/nicholaskh/assert"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/golib/server"
+	"github.com/nicholaskh/msgpack"
 	"net"
 	"testing"
 )
@@ -76,7 +76,7 @@ func TestComplexDataType(t *testing.T) {
 	)
 
 	c := New(cf)
-	name := "funky.gao"
+	name := "nicholaskh"
 	data := customType{X: 12, Y: 87, Name: name}
 	encodedData, err := msgpack.Marshal(data)
 	assert.Equal(t, nil, err)

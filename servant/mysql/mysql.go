@@ -2,11 +2,11 @@ package mysql
 
 import (
 	"database/sql"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/golib/breaker"
-	"github.com/funkygao/golib/cache"
-	log "github.com/funkygao/log4go"
-	_ "github.com/funkygao/mysql"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/golib/breaker"
+	"github.com/nicholaskh/golib/cache"
+	log "github.com/nicholaskh/log4go"
+	_ "github.com/nicholaskh/mysql"
 	"sync"
 	"time"
 )

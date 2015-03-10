@@ -2,7 +2,7 @@ package main
 
 import (
 	"database/sql"
-	_ "github.com/funkygao/mysql"
+	_ "github.com/nicholaskh/mysql"
 	"log"
 	"net/http"
 	_ "net/http/pprof"

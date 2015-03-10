@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	"github.com/funkygao/fae/servant/proxy"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/fae/servant/proxy"
 	"labix.org/v2/mgo/bson"
 	"log"
 	"math/rand"

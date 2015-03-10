@@ -1,7 +1,7 @@
 package servant
 
 import (
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
 )
 
 func (this *FunServantImpl) extractUid(ctx *rpc.Context) (uid int64) {

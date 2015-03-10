@@ -2,8 +2,8 @@ package config
 
 import (
 	"fmt"
-	conf "github.com/funkygao/jsconf"
-	log "github.com/funkygao/log4go"
+	conf "github.com/nicholaskh/jsconf"
+	log "github.com/nicholaskh/log4go"
 	"time"
 )
 

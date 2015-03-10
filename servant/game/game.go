@@ -1,9 +1,9 @@
 package game
 
 import (
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/fae/servant/redis"
-	"github.com/funkygao/metrics"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/fae/servant/redis"
+	"github.com/nicholaskh/metrics"
 )
 
 type Game struct {

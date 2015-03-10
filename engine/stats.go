@@ -2,8 +2,8 @@ package engine
 
 import (
 	"fmt"
-	"github.com/funkygao/golib/gofmt"
-	"github.com/funkygao/metrics"
+	"github.com/nicholaskh/golib/gofmt"
+	"github.com/nicholaskh/metrics"
 	"log"
 	"os"
 	"runtime"

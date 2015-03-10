@@ -7,7 +7,7 @@ Distributed middleware layer of multilingual RPC engine for enterprise SOA infra
          )__)    /(__)\    )__) 
         (__)    (__)(__)  (____)
 
-[![Build Status](https://travis-ci.org/funkygao/fae.png?branch=master)](https://travis-ci.org/funkygao/fae)
+[![Build Status](https://travis-ci.org/nicholaskh/fae.png?branch=master)](https://travis-ci.org/nicholaskh/fae)
                                
 ### Architecture
 

@@ -2,10 +2,10 @@ package proxy
 
 import (
 	"encoding/json"
-	"github.com/funkygao/etclib"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/golib/ip"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/etclib"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/golib/ip"
+	log "github.com/nicholaskh/log4go"
 	"sync"
 	"time"
 )

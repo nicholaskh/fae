@@ -1,10 +1,10 @@
 package engine
 
 import (
-	"github.com/funkygao/etclib"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/golib/signal"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/etclib"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/golib/signal"
+	log "github.com/nicholaskh/log4go"
 	"os"
 	"runtime"
 	"strconv"

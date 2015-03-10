@@ -1,9 +1,9 @@
 package proxy
 
 import (
-	"github.com/funkygao/fae/servant/gen-go/fun/rpc"
-	"github.com/funkygao/golib/pool"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/servant/gen-go/fun/rpc"
+	"github.com/nicholaskh/golib/pool"
+	log "github.com/nicholaskh/log4go"
 	"strconv"
 )
 

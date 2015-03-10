@@ -2,10 +2,10 @@ package game
 
 import (
 	"fmt"
-	"github.com/funkygao/fae/config"
-	"github.com/funkygao/fae/servant/redis"
-	log "github.com/funkygao/log4go"
-	_redis "github.com/funkygao/redigo/redis"
+	"github.com/nicholaskh/fae/config"
+	"github.com/nicholaskh/fae/servant/redis"
+	log "github.com/nicholaskh/log4go"
+	_redis "github.com/nicholaskh/redigo/redis"
 )
 
 const (

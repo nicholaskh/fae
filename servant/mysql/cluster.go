@@ -2,8 +2,8 @@ package mysql
 
 import (
 	sql_ "database/sql"
-	"github.com/funkygao/fae/config"
-	log "github.com/funkygao/log4go"
+	"github.com/nicholaskh/fae/config"
+	log "github.com/nicholaskh/log4go"
 	"time"
 )
 
